@@ -1,5 +1,14 @@
 # quarkus-jobrunr
 
+## JobRunr Demo
+
+Based on:
+https://youtu.be/YgqgSbHpMbQ?si=zz0vzC1NY2N-yJsh
+
+After starting the app direct to <http://localhost:8080/jobs> to run jobs.
+
+**You can track all actions at the Dashboard!** 
+
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: <https://quarkus.io/>.
